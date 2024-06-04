@@ -1,4 +1,4 @@
-# Invoice data processing with Mistral LLM on local CPU
+# text extraction from document with Mistral LLM on local CPU
 
 ___
 
